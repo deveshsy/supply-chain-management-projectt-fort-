@@ -12,3 +12,9 @@ story pdf  - https://drive.google.com/file/d/1hptGkc-DiRQR6g6j_-O4hlbNi841xMpv/v
 dashboard pdf - https://drive.google.com/file/d/1hqryFbs3JbaA4st0_MIwiAO9N7Uta4U4/view?usp=sharing
 
 qlik app file - https://drive.google.com/file/d/1Y0nByM-13KvMwBcVDx9qpTKVXlyzkhtp/view?usp=sharing
+
+pre-processed dataset link - 1) datacosupplyschaindataset - https://n2dqrjtllljgs53.sg.qlikcloud.com/dataset/666413c51e8a92a06d5461f0
+                             2) descriptiondatacosupplychain - https://n2dqrjtllljgs53.sg.qlikcloud.com/dataset/6664134d84fc9a3c9da1bf53
+                             3) tokennised access logs - https://n2dqrjtllljgs53.sg.qlikcloud.com/dataset/666412c584fc9a3c9da1bf09
+
+documentation pdf -                             
