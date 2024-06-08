@@ -17,4 +17,4 @@ pre-processed dataset link - 1) datacosupplyschaindataset - https://n2dqrjtllljg
                              2) descriptiondatacosupplychain - https://n2dqrjtllljgs53.sg.qlikcloud.com/dataset/6664134d84fc9a3c9da1bf53
                              3) tokennised access logs - https://n2dqrjtllljgs53.sg.qlikcloud.com/dataset/666412c584fc9a3c9da1bf09
 
-documentation pdf -                             
+documentation pdf -          https://drive.google.com/file/d/1-NPhYkcWai_EfjhQSvWHjHC1Uji0IvzJ/view?usp=sharing                   
